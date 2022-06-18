@@ -1,8 +1,6 @@
-from cgitb import lookup
-from hashlib import new
+
 
 from telnetlib import STATUS
-from turtle import title
 from django.http import JsonResponse
 
 from django.shortcuts import render
